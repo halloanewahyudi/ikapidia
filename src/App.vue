@@ -3,6 +3,7 @@ import { RouterLink, RouterView } from 'vue-router'
 
 import { onMounted, ref } from 'vue'
 import SearchBukuVue from './components/search/SearchBuku.vue'
+import Btn from './components/element/Btn.vue'
 
 const menu = ref(null)
 const openMenu = () => {
@@ -13,7 +14,7 @@ const openMenu = () => {
 <template>
   <header>
     <nav class="bg-white border-gray-200 dark:bg-gray-900 border-b">
-      <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
+      <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4 gap-4 ">
        <router-link to="/"><img src="./assets/logo.png" alt="" srcset=""> </router-link> 
         <button @click="openMenu" data-collapse-toggle="navbar-default" type="button"
           class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600"
@@ -29,20 +30,19 @@ const openMenu = () => {
         <div ref="menu" class="hidden w-full md:block md:w-auto transition-all duration-300 opacity-100"
           id="navbar-default">
           <ul
-            class="font-medium flex flex-col p-4 md:p-0 mt-4 border border-gray-100 rounded-lg bg-gray-50 md:flex-row md:space-x-8 rtl:space-x-reverse md:mt-0 md:border-0 md:bg-white dark:bg-gray-800 md:dark:bg-gray-900 dark:border-gray-700">
+            class="primary-menu lg:items-center font-medium flex flex-col p-4 md:p-0 mt-4 border border-gray-100 rounded-lg bg-gray-50 md:flex-row md:space-x-8 rtl:space-x-reverse md:mt-0 md:border-0 md:bg-white dark:bg-gray-800 md:dark:bg-gray-900 dark:border-gray-700">
+      
             <li>
               <router-link to="/"
-                class="block py-2 px-3 text-white bg-blue-700 rounded md:bg-transparent md:text-blue-700 md:p-0 dark:text-white md:dark:text-blue-500"
-                aria-current="page">Home
-              </router-link>
+                class="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Home</router-link>
             </li>
             <li>
-              <a href="#"
-                class="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Penerbit</a>
+              <router-link to="/penerbit"
+                class="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Penerbit</router-link>
             </li>
             <li>
-              <a href="#"
-                class="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Buku</a>
+              <router-link to="/buku"
+                class="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Buku</router-link>
             </li>
             <li>
               <a href="#"
@@ -52,8 +52,13 @@ const openMenu = () => {
               <a href="#"
                 class="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Contact</a>
             </li>
+          <li class="">
+            <btn> Login </btn>
+          </li>
           </ul>
+        
         </div>
+       
       </div>
     </nav>
   </header>
@@ -141,3 +146,12 @@ const openMenu = () => {
 </footer>
 
 </template>
+<style scoped>
+.router-link-active{
+  @apply text-blue-600 font-bold
+
+}
+.primary-menu li {
+ 
+}
+</style>

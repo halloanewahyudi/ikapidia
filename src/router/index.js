@@ -21,10 +21,12 @@ const router = createRouter({
     {
       path: '/penerbit',
       name: 'penerbit',
-      // route level code-splitting
-      // this generates a separate chunk (About.[hash].js) for this route
-      // which is lazy-loaded when the route is visited.
       component: () => import('../views/PenerbitView.vue')
+    },
+    {
+      path: '/buku',
+      name: 'buku',
+      component: () => import('../views/BukuView.vue')
     }
   ],
   scrollBehavior(to, from, savedPosition) {

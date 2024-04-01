@@ -2,7 +2,7 @@
     <div>
         <ul class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-5 container mx-auto gap-5 px-6">
             <li v-for="(item, index) in paginatedData" :key="index">
-                <router-link to="/single"
+                <a href="#"
                     class="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-blue-50 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700"
                     style="display: flex; flex-direction: column; height: 100%;">
                     <h5 class="mb-2 text-xl font-bold tracking-tight text-blue-700 dark:text-white">{{
@@ -13,7 +13,7 @@
                     <span
                         class="mt-auto bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-blue-900 dark:text-blue-300 w-max">Nama
                         Penerbit</span>
-                </router-link>
+                </a>
 
             </li>
         </ul>
