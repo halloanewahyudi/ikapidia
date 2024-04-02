@@ -27,6 +27,11 @@ const router = createRouter({
       path: '/buku',
       name: 'buku',
       component: () => import('../views/BukuView.vue')
+    },
+    {
+      path: '/berita',
+      name: 'berita',
+      component: () => import('../views/BeritaView.vue')
     }
   ],
   scrollBehavior(to, from, savedPosition) {

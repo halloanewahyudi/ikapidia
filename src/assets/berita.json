@@ -1,0 +1,604 @@
+{
+    "berita": [
+        {
+            "judul": "Direct Branding Officer",
+            "tanggal": "2023-04-11T08:44:30.363Z",
+            "post": "Accusantium quia molestias velit illum enim non nulla consequatur.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Corporate Usability Associate",
+            "tanggal": "2023-12-25T21:17:29.522Z",
+            "post": "Magnam assumenda amet accusamus.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "International Factors Engineer",
+            "tanggal": "2023-05-12T08:40:50.016Z",
+            "post": "Nostrum aut libero quidem ex dolor aliquid nihil.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Regional Operations Assistant",
+            "tanggal": "2023-04-16T20:20:17.904Z",
+            "post": "Ad est dolorem aut incidunt magnam laboriosam quos.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Investor Accountability Technician",
+            "tanggal": "2023-05-31T14:33:38.813Z",
+            "post": "Ut labore quaerat possimus delectus et eius expedita sint officiis.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Central Tactics Consultant",
+            "tanggal": "2023-06-28T08:10:15.430Z",
+            "post": "Voluptate enim consectetur id sint rerum qui quo corporis accusantium.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Product Branding Director",
+            "tanggal": "2024-03-07T16:27:16.456Z",
+            "post": "Voluptatem ut veniam aut consectetur iure in.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Corporate Identity Administrator",
+            "tanggal": "2023-11-04T23:33:41.865Z",
+            "post": "Et modi eveniet.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Human Paradigm Producer",
+            "tanggal": "2023-08-22T02:58:51.517Z",
+            "post": "Ipsa tenetur consequatur aut voluptatum id.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Global Communications Supervisor",
+            "tanggal": "2024-02-26T19:24:25.707Z",
+            "post": "Est amet tempora neque quia vero.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Chief Assurance Engineer",
+            "tanggal": "2023-11-12T02:30:25.418Z",
+            "post": "Dolore repellendus sint voluptatum animi delectus.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Dynamic Marketing Representative",
+            "tanggal": "2024-03-16T18:38:19.563Z",
+            "post": "Voluptate aut minima qui ipsum a accusantium et et.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "National Security Technician",
+            "tanggal": "2023-12-02T02:50:10.496Z",
+            "post": "Numquam iste inventore nostrum eveniet ullam.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Senior Data Coordinator",
+            "tanggal": "2023-08-24T01:54:02.037Z",
+            "post": "Eaque quis repudiandae saepe.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Senior Brand Consultant",
+            "tanggal": "2023-12-22T10:07:50.856Z",
+            "post": "Esse veniam repudiandae ipsum id reprehenderit voluptas.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Investor Interactions Officer",
+            "tanggal": "2023-10-31T04:52:17.564Z",
+            "post": "Nesciunt nobis et quia tempore.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Future Accounts Officer",
+            "tanggal": "2023-10-16T03:12:12.110Z",
+            "post": "Aliquid dolore dolor error sapiente veniam.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Forward Implementation Engineer",
+            "tanggal": "2024-01-29T03:44:41.642Z",
+            "post": "Est eum totam odit.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Dynamic Brand Executive",
+            "tanggal": "2023-09-30T08:29:34.638Z",
+            "post": "Mollitia aut consequatur id quisquam vel ex.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Future Operations Manager",
+            "tanggal": "2023-05-28T11:10:54.234Z",
+            "post": "Ullam omnis amet quia praesentium.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Legacy Quality Analyst",
+            "tanggal": "2023-08-10T15:47:13.540Z",
+            "post": "Voluptas velit impedit quae labore id et laboriosam cumque.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Regional Security Manager",
+            "tanggal": "2024-02-03T09:40:53.165Z",
+            "post": "Est neque aliquid qui quia aperiam nulla qui non vero.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Investor Group Administrator",
+            "tanggal": "2023-11-26T13:20:47.437Z",
+            "post": "Eum dolores et.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Legacy Brand Producer",
+            "tanggal": "2023-05-14T02:04:42.647Z",
+            "post": "Nisi qui reiciendis occaecati voluptatem enim nihil.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Senior Configuration Representative",
+            "tanggal": "2023-12-31T06:48:22.730Z",
+            "post": "Consequatur neque facilis.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "National Web Officer",
+            "tanggal": "2023-07-09T16:33:30.373Z",
+            "post": "Soluta omnis magni voluptatem architecto voluptatem incidunt rerum error.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "District Data Producer",
+            "tanggal": "2023-08-25T03:40:23.327Z",
+            "post": "Saepe adipisci doloremque nemo perferendis nihil repellendus consequatur.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Principal Solutions Supervisor",
+            "tanggal": "2023-12-06T23:41:06.818Z",
+            "post": "Voluptatem eos et incidunt qui sunt ut minus ipsam perferendis.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Human Configuration Strategist",
+            "tanggal": "2023-10-17T05:47:48.107Z",
+            "post": "Minus rem explicabo rerum doloremque atque adipisci.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Senior Applications Orchestrator",
+            "tanggal": "2024-01-12T20:29:18.174Z",
+            "post": "Id possimus aut vel ad ratione mollitia sunt nisi repellat.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "District Functionality Technician",
+            "tanggal": "2023-06-05T13:22:18.988Z",
+            "post": "Tenetur voluptatum provident et consequuntur magnam.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Central Data Associate",
+            "tanggal": "2024-03-08T10:58:23.405Z",
+            "post": "A harum iure ex et.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Central Assurance Assistant",
+            "tanggal": "2023-09-09T20:21:57.493Z",
+            "post": "Natus ratione non aspernatur sed et adipisci itaque.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Product Usability Specialist",
+            "tanggal": "2024-02-19T04:37:13.399Z",
+            "post": "Nihil ex necessitatibus occaecati soluta.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Dynamic Integration Executive",
+            "tanggal": "2023-10-18T10:47:04.151Z",
+            "post": "Alias maxime eos doloribus voluptatem consequatur repellat repudiandae.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Customer Group Developer",
+            "tanggal": "2023-08-08T20:01:58.256Z",
+            "post": "Quidem ducimus odio est eveniet.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Direct Marketing Planner",
+            "tanggal": "2024-02-29T03:11:06.936Z",
+            "post": "Ducimus ad labore nobis omnis numquam a nam.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Customer Infrastructure Manager",
+            "tanggal": "2023-08-08T17:53:53.716Z",
+            "post": "Rerum quis voluptatem.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Lead Metrics Coordinator",
+            "tanggal": "2023-06-05T11:32:56.895Z",
+            "post": "Fugiat ad rem perspiciatis.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Human Brand Planner",
+            "tanggal": "2023-07-02T13:41:10.271Z",
+            "post": "Dicta omnis et et repellendus est odit nobis.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Future Quality Administrator",
+            "tanggal": "2023-08-19T10:41:55.225Z",
+            "post": "Nesciunt voluptatum rem beatae eum hic vel sed in inventore.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Forward Optimization Supervisor",
+            "tanggal": "2023-11-15T19:20:57.248Z",
+            "post": "Voluptas dolores quas reiciendis consequatur.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Human Division Analyst",
+            "tanggal": "2023-10-11T00:47:11.642Z",
+            "post": "Sunt omnis quasi minus voluptatem.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Investor Optimization Facilitator",
+            "tanggal": "2023-11-20T08:06:45.304Z",
+            "post": "Rerum qui quae et et quo pariatur eius non.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Lead Integration Analyst",
+            "tanggal": "2023-08-28T03:21:29.049Z",
+            "post": "Minima sint itaque ut sint distinctio voluptas sequi et.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Internal Solutions Administrator",
+            "tanggal": "2024-02-21T09:22:42.312Z",
+            "post": "Quam atque non ut at aliquid tenetur molestias repellat.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Principal Usability Supervisor",
+            "tanggal": "2023-05-27T03:12:24.230Z",
+            "post": "Corporis eum reiciendis et.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Dynamic Functionality Producer",
+            "tanggal": "2023-08-28T00:08:33.385Z",
+            "post": "Quasi voluptatibus aliquam enim et.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Senior Functionality Coordinator",
+            "tanggal": "2024-01-18T13:44:19.385Z",
+            "post": "Consectetur velit delectus consequatur.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "National Usability Engineer",
+            "tanggal": "2023-11-19T20:39:17.548Z",
+            "post": "Quo nisi suscipit ipsam vero minus praesentium.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Legacy Metrics Supervisor",
+            "tanggal": "2023-04-18T10:09:44.931Z",
+            "post": "Vitae amet praesentium voluptatem et ad quia molestias optio vero.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Lead Operations Coordinator",
+            "tanggal": "2023-05-14T19:31:30.257Z",
+            "post": "Reiciendis magnam iusto dolorum non.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Future Tactics Director",
+            "tanggal": "2024-02-14T06:20:01.684Z",
+            "post": "Nobis distinctio eius ut.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Human Accounts Designer",
+            "tanggal": "2023-05-29T08:53:35.037Z",
+            "post": "Qui fuga quis.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Dynamic Brand Designer",
+            "tanggal": "2023-07-07T11:08:54.496Z",
+            "post": "Asperiores nostrum nulla quaerat excepturi ut.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Human Functionality Supervisor",
+            "tanggal": "2023-06-27T05:45:32.973Z",
+            "post": "Rem eos et incidunt sunt ea laudantium qui.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "National Division Supervisor",
+            "tanggal": "2023-05-19T16:55:12.075Z",
+            "post": "Ut tempore sed.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Regional Tactics Orchestrator",
+            "tanggal": "2023-10-20T18:15:31.199Z",
+            "post": "Consectetur labore voluptate qui quisquam.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Senior Branding Producer",
+            "tanggal": "2023-12-31T01:42:54.051Z",
+            "post": "Velit atque voluptas.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Global Brand Assistant",
+            "tanggal": "2023-12-26T01:29:46.213Z",
+            "post": "Sit explicabo expedita placeat qui.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Lead Applications Designer",
+            "tanggal": "2023-08-13T10:19:17.253Z",
+            "post": "Quod qui dolores adipisci debitis.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Dynamic Division Representative",
+            "tanggal": "2023-07-06T01:17:59.606Z",
+            "post": "Sit aperiam voluptatem.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Corporate Metrics Executive",
+            "tanggal": "2023-07-04T18:03:40.665Z",
+            "post": "Molestiae cumque similique natus ipsam.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "National Program Liaison",
+            "tanggal": "2023-04-05T15:10:24.363Z",
+            "post": "Quis et rem animi sapiente.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Lead Integration Executive",
+            "tanggal": "2023-08-18T10:35:06.532Z",
+            "post": "Blanditiis sit adipisci voluptatem quasi perferendis.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Central Group Associate",
+            "tanggal": "2023-07-20T15:13:45.730Z",
+            "post": "Dolores illum temporibus est rerum cumque aliquid eius.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Principal Program Associate",
+            "tanggal": "2023-11-19T11:08:02.752Z",
+            "post": "Rerum expedita aperiam suscipit non.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Chief Response Supervisor",
+            "tanggal": "2023-12-12T01:29:51.895Z",
+            "post": "In nihil placeat sed sunt cupiditate.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Legacy Research Analyst",
+            "tanggal": "2024-03-16T22:35:29.596Z",
+            "post": "Eos et quibusdam similique consequatur quod nihil porro.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Lead Security Designer",
+            "tanggal": "2024-03-13T08:11:43.045Z",
+            "post": "Vel a dicta saepe ea assumenda dignissimos.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Lead Usability Designer",
+            "tanggal": "2023-07-02T03:05:58.355Z",
+            "post": "Debitis est et et facilis eius delectus et.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Corporate Intranet Strategist",
+            "tanggal": "2023-12-07T16:24:21.841Z",
+            "post": "Eligendi reiciendis placeat qui optio officiis sit.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Investor Solutions Developer",
+            "tanggal": "2023-11-15T19:45:35.325Z",
+            "post": "Veritatis cupiditate deleniti optio.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Senior Assurance Orchestrator",
+            "tanggal": "2023-10-21T17:06:38.352Z",
+            "post": "Nam hic omnis porro hic quisquam.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Chief Marketing Engineer",
+            "tanggal": "2023-08-17T09:01:33.729Z",
+            "post": "Illum suscipit nihil reiciendis labore debitis et et.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Principal Factors Liaison",
+            "tanggal": "2023-08-07T03:09:13.322Z",
+            "post": "Aliquam omnis ab voluptas distinctio eos.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Direct Program Specialist",
+            "tanggal": "2024-02-19T04:25:37.268Z",
+            "post": "Harum sunt officiis aut quam est molestiae laudantium.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Lead Group Facilitator",
+            "tanggal": "2024-02-16T00:52:57.868Z",
+            "post": "Deserunt cum fugiat.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Future Quality Analyst",
+            "tanggal": "2024-02-08T16:57:10.636Z",
+            "post": "Labore nemo nobis consequuntur at.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Customer Marketing Director",
+            "tanggal": "2023-10-23T07:29:06.522Z",
+            "post": "Aut qui facilis quo qui est.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Global Markets Associate",
+            "tanggal": "2023-09-05T01:48:12.572Z",
+            "post": "Perspiciatis consectetur impedit aut id aperiam.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Chief Interactions Analyst",
+            "tanggal": "2024-01-09T18:58:38.010Z",
+            "post": "Inventore et cupiditate est et optio voluptates dolor.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Customer Research Planner",
+            "tanggal": "2023-04-05T01:19:06.355Z",
+            "post": "Culpa aut porro nemo saepe.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Product Implementation Executive",
+            "tanggal": "2023-07-08T07:38:34.266Z",
+            "post": "Voluptatibus veniam assumenda natus modi sequi reiciendis earum architecto aut.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Internal Accounts Consultant",
+            "tanggal": "2023-06-23T15:53:25.176Z",
+            "post": "Quis dicta nihil ab molestiae reiciendis et aut.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Dynamic Tactics Planner",
+            "tanggal": "2023-09-19T12:42:52.329Z",
+            "post": "Aut molestiae molestiae.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Dynamic Web Executive",
+            "tanggal": "2023-12-19T22:31:03.029Z",
+            "post": "Ipsam dolor ullam saepe optio aliquam sed ut.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "District Mobility Consultant",
+            "tanggal": "2024-02-20T02:58:01.032Z",
+            "post": "Quia qui omnis.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Regional Integration Planner",
+            "tanggal": "2023-06-26T11:38:41.009Z",
+            "post": "Sunt autem iusto ullam sed ea sunt beatae est.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Future Markets Agent",
+            "tanggal": "2024-02-22T17:33:43.893Z",
+            "post": "Repellat nihil rerum voluptatem.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Lead Factors Planner",
+            "tanggal": "2023-08-19T09:20:59.901Z",
+            "post": "Sit voluptate ab.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Legacy Tactics Technician",
+            "tanggal": "2023-12-27T15:04:34.146Z",
+            "post": "Voluptas id ipsum vero voluptatibus.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Internal Research Liaison",
+            "tanggal": "2024-01-02T16:47:24.938Z",
+            "post": "Consequatur quo et nihil necessitatibus.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Senior Division Executive",
+            "tanggal": "2024-02-21T05:48:16.570Z",
+            "post": "Architecto eligendi iusto nam voluptatem culpa ipsa harum consectetur.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Global Interactions Representative",
+            "tanggal": "2023-06-13T08:10:48.436Z",
+            "post": "Facilis unde modi dignissimos necessitatibus ut ut.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Global Quality Director",
+            "tanggal": "2023-06-20T23:23:45.280Z",
+            "post": "Provident animi architecto qui qui quisquam aut.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Dynamic Quality Director",
+            "tanggal": "2023-09-05T17:07:31.011Z",
+            "post": "Doloribus qui et.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Dynamic Infrastructure Facilitator",
+            "tanggal": "2024-01-22T11:26:15.552Z",
+            "post": "Cum magnam dolores dolores.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Forward Optimization Designer",
+            "tanggal": "2024-03-09T16:32:58.370Z",
+            "post": "Quo aliquam reiciendis repellat adipisci nesciunt.",
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "judul": "Dynamic Branding Designer",
+            "tanggal": "2023-09-17T03:02:00.835Z",
+            "post": "Quasi eaque qui tempora dolores et iusto ullam autem.",
+            "image": "http://placeimg.com/640/480/nature"
+        }
+    ]
+}
